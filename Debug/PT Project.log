@@ -1,0 +1,228 @@
+﻿Build started 5/17/2022 6:03:00 PM.
+     1>Project "C:\Users\moham\OneDrive\Desktop\ProjectFramwork\PT Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc110.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt Actions\AddCondition.cpp Actions\AddConnector.cpp Actions\AddEnd.cpp Actions\AddRead.cpp Actions\AddSOAssign.cpp Actions\AddSmplAssign.cpp Actions\AddStart.cpp Actions\AddVarAssign.cpp Actions\AddWrite.cpp Actions\Generate.cpp Actions\Load.cpp Actions\Move.cpp Actions\Run.cpp Actions\Save.cpp Actions\Select.cpp Actions\Step.cpp ApplicationManager.cpp GUI\Input.cpp GUI\Output.cpp Statements\Condition.cpp Statements\Connector.cpp Statements\End.cpp Statements\Read.cpp Statements\SOAssign.cpp Statements\SmplAssign.cpp Statements\Start.cpp Statements\Statement.cpp Statements\VarAssign.cpp Statements\Write.cpp main.cpp
+         Write.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(22): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(26): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(56): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(79): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(80): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(176): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(179): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(199): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(200): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(209): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(210): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(216): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(220): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(231): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(270): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\write.cpp(274): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         VarAssign.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(23): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(27): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(58): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(82): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(83): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(92): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(93): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(99): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(103): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(155): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(224): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(228): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(280): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(284): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         Statement.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\statement.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\statement.cpp(63): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\statement.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+         Start.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\start.cpp(36): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\start.cpp(37): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\start.cpp(38): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\start.cpp(145): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         SmplAssign.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(21): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(25): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(57): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(81): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(82): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(91): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(92): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(99): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(103): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(152): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(221): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(225): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(276): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\smplassign.cpp(280): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         SOAssign.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\soassign.cpp(134): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\soassign.cpp(135): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\soassign.cpp(136): warning C4244: '*=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\soassign.cpp(137): warning C4244: '*=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\soassign.cpp(144): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\soassign.cpp(145): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\soassign.cpp(146): warning C4244: '/=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\soassign.cpp(147): warning C4244: '/=' : conversion from 'double' to 'int', possible loss of data
+         Output.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\gui\output.cpp(159): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+         Input.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\gui\input.cpp(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moham\onedrive\desktop\projectframwork\gui\input.cpp(72): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moham\onedrive\desktop\projectframwork\gui\input.cpp(85): warning C4018: '<' : signed/unsigned mismatch
+         ApplicationManager.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\actions\load.h(1): warning C4081: expected 'identifier'; found 'string'
+         Step.cpp
+         Select.cpp
+         Move.cpp
+         Generate.cpp
+         AddWrite.cpp
+         AddVarAssign.cpp
+         AddStart.cpp
+         AddSmplAssign.cpp
+         AddSOAssign.cpp
+         AddRead.cpp
+         AddEnd.cpp
+         Generating Code...
+     1>c:\users\moham\onedrive\desktop\projectframwork\gui\input.cpp(214): warning C4715: 'Input::GetUserAction' : not all control paths return a value
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\soassign.cpp(366): warning C4715: 'SOAssign::getVar' : not all control paths return a value
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\varassign.cpp(304): warning C4715: 'VarAssign::getVar' : not all control paths return a value
+         Compiling...
+         AddConnector.cpp
+         AddCondition.cpp
+         Generating Code...
+         Compiling...
+         main.cpp
+         Read.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(21): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(25): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(42): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(74): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(75): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(169): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(173): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(195): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(196): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(205): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(206): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(212): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(216): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(226): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(263): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\read.cpp(267): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         End.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\end.cpp(24): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\end.cpp(25): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\end.cpp(26): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\end.cpp(141): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         Connector.cpp
+         Condition.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(31): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(32): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(34): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(35): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(73): warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(116): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(117): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(227): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(228): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(230): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(231): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(259): warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(268): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(277): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(278): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(280): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(281): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(340): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(341): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(343): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(344): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         Save.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\actions\save.cpp(5): warning C4081: expected 'identifier'; found 'string'
+         Run.cpp
+         Load.cpp
+     1>c:\users\moham\onedrive\desktop\projectframwork\actions\load.cpp(1): warning C4081: expected 'identifier'; found 'string'
+     1>c:\users\moham\onedrive\desktop\projectframwork\actions\load.h(1): warning C4081: expected 'identifier'; found 'string'
+         Generating Code...
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(93): warning C4715: 'Condition::getStatConnector' : not all control paths return a value
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(140): warning C4715: 'Condition::GetConnPoint' : not all control paths return a value
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\condition.cpp(363): warning C4715: 'Condition::getVar' : not all control paths return a value
+     1>c:\users\moham\onedrive\desktop\projectframwork\statements\connector.cpp(143): warning C4715: 'Connector::IsOnConnect' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/PT Project.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/PT Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\PT Project.lib" /MACHINE:X86 /SAFESEH .\Debug/AddCondition.obj
+         .\Debug/AddConnector.obj
+         .\Debug/AddEnd.obj
+         .\Debug/AddRead.obj
+         .\Debug/AddSOAssign.obj
+         .\Debug/AddStart.obj
+         .\Debug/AddVarAssign.obj
+         .\Debug/AddWrite.obj
+         .\Debug/Generate.obj
+         .\Debug/Load.obj
+         .\Debug/Move.obj
+         .\Debug/Run.obj
+         .\Debug/Save.obj
+         .\Debug/Select.obj
+         .\Debug/Step.obj
+         .\Debug/auxil.obj
+         .\Debug/CMUgraphics.obj
+         .\Debug/image.obj
+         .\Debug/jpegload.obj
+         .\Debug/keyqueue.obj
+         .\Debug/mousequeue.obj
+         .\Debug/windowinput.obj
+         .\Debug/jcomapi.obj
+         .\Debug/jcparam.obj
+         .\Debug/jdapimin.obj
+         .\Debug/jdapistd.obj
+         .\Debug/jdatasrc.obj
+         .\Debug/jdcoefct.obj
+         .\Debug/jdcolor.obj
+         .\Debug/jddctmgr.obj
+         .\Debug/jdhuff.obj
+         .\Debug/jdinput.obj
+         .\Debug/jdmainct.obj
+         .\Debug/jdmarker.obj
+         .\Debug/jdmaster.obj
+         .\Debug/jdmerge.obj
+         .\Debug/jdphuff.obj
+         .\Debug/jdpostct.obj
+         .\Debug/jdsample.obj
+         .\Debug/jdtrans.obj
+         .\Debug/jerror.obj
+         .\Debug/jidctflt.obj
+         .\Debug/jidctfst.obj
+         .\Debug/jidctint.obj
+         .\Debug/jidctred.obj
+         .\Debug/jmemmgr.obj
+         .\Debug/jmemnobs.obj
+         .\Debug/jquant1.obj
+         .\Debug/jquant2.obj
+         .\Debug/jutils.obj
+         .\Debug/AddSmplAssign.obj
+         .\Debug/Input.obj
+         .\Debug/Output.obj
+         .\Debug/ApplicationManager.obj
+         .\Debug/Condition.obj
+         .\Debug/Connector.obj
+         .\Debug/End.obj
+         .\Debug/Read.obj
+         .\Debug/SmplAssign.obj
+         .\Debug/SOAssign.obj
+         .\Debug/Start.obj
+         .\Debug/Statement.obj
+         .\Debug/main.obj
+         .\Debug/VarAssign.obj
+         .\Debug/Write.obj
+         PT Project.vcxproj -> C:\Users\moham\OneDrive\Desktop\ProjectFramwork\.\Debug\PT Project.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o".\Debug/PT Project.bsc" .\Debug\AddCondition.sbr .\Debug\AddConnector.sbr .\Debug\AddEnd.sbr .\Debug\AddRead.sbr .\Debug\AddSOAssign.sbr .\Debug\AddStart.sbr .\Debug\AddVarAssign.sbr .\Debug\AddWrite.sbr .\Debug\Generate.sbr .\Debug\Load.sbr .\Debug\Move.sbr .\Debug\Run.sbr .\Debug\Save.sbr .\Debug\Select.sbr .\Debug\Step.sbr .\Debug\auxil.sbr .\Debug\CMUgraphics.sbr .\Debug\image.sbr .\Debug\jpegload.sbr .\Debug\keyqueue.sbr .\Debug\mousequeue.sbr .\Debug\windowinput.sbr .\Debug\jcomapi.sbr .\Debug\jcparam.sbr .\Debug\jdapimin.sbr .\Debug\jdapistd.sbr .\Debug\jdatasrc.sbr .\Debug\jdcoefct.sbr .\Debug\jdcolor.sbr .\Debug\jddctmgr.sbr .\Debug\jdhuff.sbr .\Debug\jdinput.sbr .\Debug\jdmainct.sbr .\Debug\jdmarker.sbr .\Debug\jdmaster.sbr .\Debug\jdmerge.sbr .\Debug\jdphuff.sbr .\Debug\jdpostct.sbr .\Debug\jdsample.sbr .\Debug\jdtrans.sbr .\Debug\jerror.sbr .\Debug\jidctflt.sbr .\Debug\jidctfst.sbr .\Debug\jidctint.sbr .\Debug\jidctred.sbr .\Debug\jmemmgr.sbr .\Debug\jmemnobs.sbr .\Debug\jquant1.sbr .\Debug\jquant2.sbr .\Debug\jutils.sbr .\Debug\AddSmplAssign.sbr .\Debug\Input.sbr .\Debug\Output.sbr .\Debug\ApplicationManager.sbr .\Debug\Condition.sbr .\Debug\Connector.sbr .\Debug\End.sbr .\Debug\Read.sbr .\Debug\SmplAssign.sbr .\Debug\SOAssign.sbr .\Debug\Start.sbr .\Debug\Statement.sbr .\Debug\main.sbr .\Debug\VarAssign.sbr .\Debug\Write.sbr
+     1>Done Building Project "C:\Users\moham\OneDrive\Desktop\ProjectFramwork\PT Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:46.98
