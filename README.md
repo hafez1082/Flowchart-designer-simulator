@@ -14,8 +14,3 @@ conventions. The most common types of boxes in a flowchart are:
 1- Processing step; usually called activity, and denoted as a rectangular box
 2- Decision; usually denoted as a diamond.
 3- Inputs and outputs; usually denoted as parallelograms.
-
-
-
-
-IT'S NOT COMPLETED
